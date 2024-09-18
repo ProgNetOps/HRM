@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HRM.App",
   "resources": {
-    "hash": "sha256-T7H2tJfefdNrGQFdw2uM1LxpYyI7oA2CtBb1AYAIlH4=",
+    "hash": "sha256-UvlDOkQHO7d/b3KcCGXptsOxQxTm/L753vpN/S6Gf/M=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.z8vqhqo7kg.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "HRM.App.wasm": "sha256-aXMl6pxlItTrpcRpH1BylRvEDp5t4MO0ZSJBF34MoAI="
+      "HRM.App.wasm": "sha256-j9LPhQP+hwHJLS4vIEMgexBNoI3XVOZsqkhHqdOLhOc="
     },
     "pdb": {
-      "HRM.App.pdb": "sha256-QQB659OzTcZIHjpPCdfGUD07EV0aKgVOf5qZp8ddIec="
+      "HRM.App.pdb": "sha256-xawKXxQULZ+dv9KklIGOF/T8Wcjz1kkTXjpPoC+5LQU="
     }
   },
   "cacheBootResources": true,
