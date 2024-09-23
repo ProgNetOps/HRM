@@ -1030,3 +1030,12 @@ C:\Repository\HRM\HRM.App\obj\Debug\net8.0\refint\HRM.App.dll
 C:\Repository\HRM\HRM.App\obj\Debug\net8.0\HRM.App.pdb
 C:\Repository\HRM\HRM.App\obj\Debug\net8.0\ref\HRM.App.dll
 C:\Repository\HRM\HRM.App\obj\Debug\net8.0\HRM.App.sourcelink.json
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\wwwroot\_framework\HRM.Shared.pdb
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\wwwroot\_framework\HRM.Shared.wasm
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\wwwroot\_framework\HRM.Shared.wasm.gz
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\wwwroot\_framework\HRM.Shared.pdb.gz
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\HRM.Shared.dll
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\HRM.Shared.pdb
+C:\Repository\HRM\HRM.App\obj\Debug\net8.0\webcil\HRM.Shared.wasm
+C:\Repository\HRM\HRM.App\obj\Debug\net8.0\compressed\2vvtx2qqin.gz
+C:\Repository\HRM\HRM.App\obj\Debug\net8.0\compressed\w33upyhzh1.gz

@@ -1,0 +1,12 @@
+C:\Repository\HRM\HRM.Shared\bin\Debug\net8.0\HRM.Shared.deps.json
+C:\Repository\HRM\HRM.Shared\bin\Debug\net8.0\HRM.Shared.dll
+C:\Repository\HRM\HRM.Shared\bin\Debug\net8.0\HRM.Shared.pdb
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.AssemblyInfoInputs.cache
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.AssemblyInfo.cs
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.csproj.CoreCompileInputs.cache
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.sourcelink.json
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.dll
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\refint\HRM.Shared.dll
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\HRM.Shared.pdb
+C:\Repository\HRM\HRM.Shared\obj\Debug\net8.0\ref\HRM.Shared.dll
