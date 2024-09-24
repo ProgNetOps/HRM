@@ -3,6 +3,25 @@
   "WorkspaceRootPath": "C:\\Repository\\HRM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0027Seyi\\AppData\\Local\\Temp\\98a5cd3e-de53-4f4c-9b7b-1f8aaef73c26_asp-dot-net-core-6-blazor-fundamentals.zip.c26\\03\\demos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Shared\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\pages\\employeeoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\pages\\employeeoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\models\\mockdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\models\\mockdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|c:\\repository\\hrm\\hrm.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70F867F4-4B04-4910-BDD4-339B6F90F901}|HRM.App\\HRM.App.csproj|solutionrelative:hrm.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E79C80A0-5EBC-4601-AA05-53261E2BEB86}|HRM.Shared\\HRM.Shared.csproj|c:\\repository\\hrm\\hrm.shared\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,19 +82,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeOverview.razor",
-              "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Pages\\EmployeeOverview.razor",
-              "RelativeDocumentMoniker": "HRM.App\\Pages\\EmployeeOverview.razor",
-              "ToolTip": "C:\\Repository\\HRM\\HRM.App\\Pages\\EmployeeOverview.razor",
-              "RelativeToolTip": "HRM.App\\Pages\\EmployeeOverview.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "HRM.App\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Repository\\HRM\\HRM.App\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "HRM.App\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T10:32:31.647Z",
+              "WhenOpened": "2024-09-24T16:31:53.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HRM.App\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Repository\\HRM\\HRM.App\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HRM.App\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:31:43.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\\u0027Seyi\\AppData\\Local\\Temp\\98a5cd3e-de53-4f4c-9b7b-1f8aaef73c26_asp-dot-net-core-6-blazor-fundamentals.zip.c26\\03\\demos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\..\\Users\\\u0027Seyi\\AppData\\Local\\Temp\\98a5cd3e-de53-4f4c-9b7b-1f8aaef73c26_asp-dot-net-core-6-blazor-fundamentals.zip.c26\\03\\demos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\\u0027Seyi\\AppData\\Local\\Temp\\98a5cd3e-de53-4f4c-9b7b-1f8aaef73c26_asp-dot-net-core-6-blazor-fundamentals.zip.c26\\03\\demos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Shared\\NavMenu.razor [Read Only]",
+              "RelativeToolTip": "..\\..\\Users\\\u0027Seyi\\AppData\\Local\\Temp\\98a5cd3e-de53-4f4c-9b7b-1f8aaef73c26_asp-dot-net-core-6-blazor-fundamentals.zip.c26\\03\\demos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Shared\\NavMenu.razor [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T16:31:28.998Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmployeeOverview.razor.cs",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Pages\\EmployeeOverview.razor.cs",
               "RelativeDocumentMoniker": "HRM.App\\Pages\\EmployeeOverview.razor.cs",
@@ -87,25 +128,49 @@
               "RelativeToolTip": "HRM.App\\Pages\\EmployeeOverview.razor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:32:21.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T10:32:21.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "HRM.App\\wwwroot\\index.html",
               "ToolTip": "C:\\Repository\\HRM\\HRM.App\\wwwroot\\index.html",
               "RelativeToolTip": "HRM.App\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-23T10:25:17.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HRM.App\\Pages\\Home.razor",
+              "ToolTip": "C:\\Repository\\HRM\\HRM.App\\Pages\\Home.razor",
+              "RelativeToolTip": "HRM.App\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T13:10:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeOverview.razor",
+              "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Pages\\EmployeeOverview.razor",
+              "RelativeDocumentMoniker": "HRM.App\\Pages\\EmployeeOverview.razor",
+              "ToolTip": "C:\\Repository\\HRM\\HRM.App\\Pages\\EmployeeOverview.razor",
+              "RelativeToolTip": "HRM.App\\Pages\\EmployeeOverview.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T10:32:31.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MockDataService.cs",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Models\\MockDataService.cs",
               "RelativeDocumentMoniker": "HRM.App\\Models\\MockDataService.cs",
@@ -113,12 +178,11 @@
               "RelativeToolTip": "HRM.App\\Models\\MockDataService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T01:55:05.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T01:55:05.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MaritalStatus.cs",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.Shared\\MaritalStatus.cs",
               "RelativeDocumentMoniker": "HRM.Shared\\MaritalStatus.cs",
@@ -130,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "JobCategory.cs",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.Shared\\JobCategory.cs",
               "RelativeDocumentMoniker": "HRM.Shared\\JobCategory.cs",
@@ -142,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "HRM.App\\Layout\\MainLayout.razor.css",
@@ -154,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repository\\HRM\\HRM.App\\Program.cs",
               "RelativeDocumentMoniker": "HRM.App\\Program.cs",

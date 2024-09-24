@@ -1039,3 +1039,4 @@ C:\Repository\HRM\HRM.App\bin\Debug\net8.0\HRM.Shared.pdb
 C:\Repository\HRM\HRM.App\obj\Debug\net8.0\webcil\HRM.Shared.wasm
 C:\Repository\HRM\HRM.App\obj\Debug\net8.0\compressed\2vvtx2qqin.gz
 C:\Repository\HRM\HRM.App\obj\Debug\net8.0\compressed\w33upyhzh1.gz
+C:\Repository\HRM\HRM.App\bin\Debug\net8.0\libman.json
